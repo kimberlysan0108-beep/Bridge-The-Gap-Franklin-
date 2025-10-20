@@ -1,0 +1,24 @@
+{
+  "college": [
+    {
+      "title": "UC Application Guide",
+      "description": "Step-by-step instructions for applying to UC schools, including Berkeley.",
+      "link": "https://admission.universityofcalifornia.edu/",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/7/7b/UC_logo.png"
+    },
+    {
+      "title": "FAFSA Info",
+      "description": "Learn how to apply for federal student aid.",
+      "link": "https://studentaid.gov/h/apply-for-aid/fafsa",
+      "img": "https://studentaid.gov/sites/default/files/images/fafsa_og.png"
+    }
+  ],
+  "scholarships": [
+    {
+      "title": "The Gates Scholarship",
+      "description": "A highly selective full scholarship for exceptional, Pell-eligible minority high school seniors.",
+      "link": "https://www.thegatesscholarship.org/",
+      "img": "https://www.thegatesscholarship.org/images/logo.png"
+    }
+  ]
+}
